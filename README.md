@@ -132,7 +132,15 @@ Thanks again, and don't forget to give the project a star!
 <!-- CONTACT -->
 ## Contact
 
-Katy Gaffney - [LinkedIn](https://www.linkedin.com/in/katyanngaffney/) - [katyanngaffney](katyanngaffney@gmail.com)
+Katy Gaffney 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/katyanngaffney/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:katyanngaffney@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 Project Link: [https://github.com/KatyAnnG/recession_to_recovery](https://github.com/KatyAnnG/recession_to_recovery)
 
