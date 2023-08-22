@@ -57,9 +57,9 @@ I sourced ~65 raw datasets, which I cleaned and wrangled using Python and Pandas
 
 The datasets followed a range of different methodologies, often with differing measure values, formats and timeframes within the same data series. 
 
-The data preparation process was long and arduos, but extremely rewarding. 
+For example, some were number counts (homeless adults at a given time, or number of people in specific age groups etc.), whereas others were percentages of the total population, or percentages of a total in a given measure (percentage of recipients of social housing referred by homeless services, percentage of people living at risk of poverty who are renting at market rates, etc.)
 
-I did not use every dataset in the resulting report, however I now have a mine of information on file for further investigation.
+In light of this the data preparation process was long and arduos, but also extremely rewarding. 
 
 The clean datasets were divided into the following categories:
 #### Population
@@ -77,6 +77,13 @@ The clean datasets were divided into the following categories:
 - Poverty risk and tenure status.
 - Poverty risk and economic status.
 - Poverty risk and age group.
+
+  
+I used Tableau to further investigate and visualise these datasets, then collected and presented my findings in an animated slide format using Keynote. 
+This can be viewed in the [Presentation folder.](https://github.com/KatyAnnG/recession_to_recovery/tree/main/Presentation)
+The visualisations shown in the presentation can be examined more closely in the [Visualisations folder.](https://github.com/KatyAnnG/recession_to_recovery/tree/main/Visualisations)
+
+I did not use every dataset in the resulting presentation, however I now have a mine of information on file for further investigation.
 
 <!-- INVESTIGATED WITH -->
 ## Investigated With
