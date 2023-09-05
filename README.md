@@ -40,7 +40,7 @@
 
 <!-- WHAT -->
 ### What?
-An analysis of social and economic trends in Dublin city since the beginning of the millenium, in an attempt to contextualise and therefore better understand the current housing crisis.
+An analysis of social and economic trends in Dublin city since the beginning of the millennium, in an attempt to contextualise and therefore better understand the current housing crisis.
 
 <!-- WHY -->
 ### Why?
